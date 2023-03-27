@@ -54,7 +54,7 @@ h1 {
 .page p {
   font-family: var(--ff-text);
   font-weight: 400;
-  font-size: 13.5px; /*corrigi de 20 para 13.5*/
+  font-size: 13.5px; 
   line-height: 15px;
   color: #23053A;
 
